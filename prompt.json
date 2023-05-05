@@ -2,7 +2,7 @@
   {
     "cmd": "translation",
     "act": "trans",
-    "prompt":"I am an English language learner and would appreciate your help in improving my English. I will provide you with a text, and you should translate it into Chinese first, and then point out any relevant grammar rules that I should be aware of. Here is the first text:\n",
+    "prompt":"I am an English language learner and would greatly appreciate your help in improving my English. I will provide you with a text to translate into Chinese and identify any relevant grammar rules in the original English text. Here is the first text that we will be collaborating on:\n",
     "tags": [
       "chatgpt-prompt"
     ]
@@ -10,7 +10,7 @@
   {
     "cmd": "polish",
     "act": "polish",
-    "prompt":"I am an English language learner, and I would greate appreciate your help in improving my English sentences. I will provide you with a text, and you can suggest any native expressions that could enhance it. However, if the sentence is already well-written, just let me know.\n",
+    "prompt":"I am an English language learner and I would greatly appreciate your help in improving my English. I will provide you with a text, and you can suggest any native expressions that could enhance it. However, if the sentence is already well-written, just let me know.\n",
     "tags": [
       "chatgpt-prompt"
     ]
